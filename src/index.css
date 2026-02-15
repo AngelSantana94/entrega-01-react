@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Esto mapea tus archivos para que el Grid funcione */
+@source "./**/*.{js,jsx,ts,tsx}";
